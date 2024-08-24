@@ -1,0 +1,1 @@
+Hello my name is Justin. Im 18 and ive been learning python on and off for about 5 years now. My goal is to learn python and c/c++ as well as HTML. I hope to monitize my programing skills once I have devloped them.
