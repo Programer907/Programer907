@@ -1,1 +1,1 @@
-Hello my name is Justin. Im 18 and ive been learning python on and off for about 5 years now. My goal is to learn python and c/c++ as well as HTML. I hope to monitize my programing skills once I have devloped them.
+Hello my name is Justin. Im 18 and ive been learning python on and off for about 5 years now. My goal is to become a fullstack developer by utilizing python, sql, html/css as well as Javascript/typescript. My plan is to learn python and sql enough to get me a job. Once I have done that will start leaning front end development.
